@@ -6,7 +6,7 @@
     (property "Value" "" (at -16.51 -7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "386_kicad_footprints:PGA-132" (at -19.05 -63.5 0)
+    (property "Footprint" "" (at -16.51 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://datasheets.chipdb.org/Intel/x86/386/datashts/23163011.pdf" (at 1.27 -59.69 0)
