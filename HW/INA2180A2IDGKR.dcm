@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA2180A2IDGKR
+D Current Sense Amplifiers Dual 26V, Low- or High-Side Voltage Output Current Sense Amplifier 8-VSSOP -40 to 125
+K
+F http://www.ti.com/lit/gpn/ina2180
+$ENDCMP
+#
+#End Doc Library

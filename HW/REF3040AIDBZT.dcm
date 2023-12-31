@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP REF3040AIDBZT
+D 4.096V 50ppm/Degrees C, 50uA in SOT23-3 Series (Bandgap) Voltage Reference
+K
+F http://www.ti.com/lit/ds/symlink/ref3040.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMG6602SVT-7
+D Diodes Inc DMG6602SVT-7 Dual N/P-channel MOSFET Transistor, 6-Pin TSOT-26
+K
+F https://componentsearchengine.com/Datasheets/1/DMG6602SVT-7.pdf
+$ENDCMP
+#
+#End Doc Library

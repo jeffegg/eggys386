@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI7157DP-T1-GE3
+D VISHAY - SI7157DP-T1-GE3 - MOSFET, P-CH, -20V, -60A, POWERPAK SO-8
+K
+F https://www.vishay.com/docs/62860/si7157dp.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,4 +1,4 @@
-22208324811923298
+22218548926369249
 386_kicad_footprints
 PGA-132
 
@@ -91489,3 +91489,45 @@ varistor
 0
 2
 2
+kicad_footprints
+POWERPAKSO-8
+PowerPAK SO-8
+MOSFET (P-Channel)
+0
+9
+9
+kicad_footprints
+QFP50P1600X1600X120-100N
+100A_1
+Integrated Circuit
+0
+100
+100
+kicad_footprints
+SOP65P490X110-8N
+DGK (S-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+kicad_footprints
+SOT95P237X112-3N
+DBZ (R-PDSO-G3)
+Integrated Circuit
+0
+3
+3
+kicad_footprints
+SOT95P280X100-6N
+TSOT26 -1
+Transistor
+0
+6
+6
+kicad_footprints
+TO229P990X238-4N
+DPAK-3
+Integrated Circuit
+0
+4
+4
