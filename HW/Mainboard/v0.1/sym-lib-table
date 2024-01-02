@@ -3,4 +3,5 @@
   (lib (name "386_kicad_lib")(type "KiCad")(uri "C:/projects/eggys386/HW/386_kicad_lib.kicad_sym")(options "")(descr ""))
   (lib (name "ATF1508AS-10AU100")(type "KiCad")(uri "C:/Projects/eggys386/HW/ATF1508AS-10AU100.kicad_sym")(options "")(descr ""))
   (lib (name "JC26C2-DRRE")(type "KiCad")(uri "C:/projects/eggys386/HW/JC26C2-DRRE.kicad_sym")(options "")(descr ""))
+  (lib (name "STUSB4500QTR")(type "KiCad")(uri "C:/Projects/eggys386/HW/STUSB4500QTR.kicad_sym")(options "")(descr ""))
 )
